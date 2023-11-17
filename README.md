@@ -1,4 +1,4 @@
-#INA228 driver
+# INA228 driver
 
 ## Copy of https://github.com/megalloid/INA228 modded for micropython for the PICO 
 
