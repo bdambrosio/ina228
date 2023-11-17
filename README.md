@@ -1,4 +1,4 @@
-# <CENTER> ina228 driver </CENTER>
+<p style="text-align: center;"> INA228 driver </p>
 # Copy of 
 #https://github.com/megalloid/INA228/tree/main
 # modded for micropython for the PICO 
