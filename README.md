@@ -1,6 +1,6 @@
 #INA228 driver
 
-## Copy of https://github.com/megalloid/INA228/tree/main modded for micropython for the PICO 
+## Copy of https://github.com/megalloid/INA228 modded for micropython for the PICO 
 
 I don't claim to understand git well, so if this not being a formal fork offends anyone, my apologies.
 
