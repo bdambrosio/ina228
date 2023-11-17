@@ -8,6 +8,7 @@ My sincerest thanks to Megalloid - the 228 is the chip I've been waiting for to 
 # Also thanks to Adafruit for making a breakout board! 
 
 # Simple example:
+
 ```
 from machine import I2C, Pin
 import ina228
