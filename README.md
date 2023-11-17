@@ -19,3 +19,5 @@ sensor.reset_all()
 print(sensor.get_current())
 print(sensor.get_manufacturer_id())
 ```
+
+Note there are many other methods, getting voltage and power, setting calibration and offsets, testing for alerts, etc.
