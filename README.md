@@ -1,6 +1,6 @@
-#INA228 driver
+# INA228 micropython driver
 
-## Copy of https://github.com/megalloid/INA228/tree/main modded for micropython for the PICO 
+## Copy of https://github.com/megalloid/INA228 modded for micropython for the PICO 
 
 I don't claim to understand git well, so if this not being a formal fork offends anyone, my apologies.
 
@@ -19,3 +19,5 @@ sensor.reset_all()
 print(sensor.get_current())
 print(sensor.get_manufacturer_id())
 ```
+
+Note there are many other methods, getting voltage and power, setting calibration and offsets, testing for alerts, etc.
